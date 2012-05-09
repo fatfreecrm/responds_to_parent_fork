@@ -1,7 +1,7 @@
 spec = Gem::Specification.new do |s|
-  s.name        = 'responds_to_parent'
-  s.version     = '1.0.20091013'
-  s.homepage    = 'http://github.com/markcatley/responds_to_parent'
+  s.name        = 'responds_to_parent_ffcrm'
+  s.version     = '1.1.0'
+  s.homepage    = 'http://github.com/fatfreecrm/responds_to_parent'
   s.authors     = ['Mark Catley']
   s.summary     = "[Rails] Adds 'responds_to_parent' to your controller to" +
                   'respond to the parent document of your page.'            +
